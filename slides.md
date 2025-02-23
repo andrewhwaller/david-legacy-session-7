@@ -94,4 +94,50 @@ He will drink from the stream by the path;\
 &emsp;therefore he will lift up his head. 
 
 
+---
+layout: quote
+---
 
+# Josephus, *Antiquities* 6.165--166
+Then, taking the oil, with David looking on, \[Samouel\] smeared it on him and spoke softly in his ear, indicating that God had chosen him to rule as king\.\.\.\.
+The Deity then abandoned Saoul and went over to David.
+Once the divine spirit transferred to him, he began to prophesy.
+A certain suffering beset Saoul and demons caused him to suffocate and choke\.\.\.\.
+
+---
+layout: quote
+---
+
+# Pseudo-Philo, *Liber Antiquitatum Biblicarum* 59.3--5
+Samuel said to Jesse, “Send and bring your son from the flock, for God has chosen him.”
+Jesse sent and brought David, and Samuel anointed him in the midst of his brothers.
+The Lord was with him from that day.
+Then David undertook to sing this song, and he said, “From the ends of the earth I will give praise, and from the days of old I will extol.
+When Abel at the beginning shepherded flocks, his sacrifice was more acceptable than his brother's, and his brother was jealous of him and killed him.
+But for me it has not gone so, because God protected me and delivered me to his angels and to his guardians to protect me.
+For my brothers were jealous of me, and my father and my mother abandoned me.
+When the prophet came, they did not call to me\.\.\.\.
+But God extended to me his right hand and his mercy.
+Therefore I will not cease singing praises all the days of my life.”
+While David was still speaking, behold a fierce lion from the forest and a bear from the mountain seized the oxen of David\.\.\.\.
+David went out after them and took stones from the forest and killed them.
+God said to him, “Behold, with stones I have delivered up these beasts for you.
+This will be a sign for you that hereafter you will kill the enemy of my people with stones.”
+
+---
+layout: quote
+---
+
+# Pseudo-Philo, *Liber Antiquitatum Biblicarum* 61.5--9
+David set out, and he took seven stones and wrote on them the names of his fathers, Abraham, Isaac, and Jacob, Moses and Aaron, and his own name and that of the Lord.
+God sent Zeruel, the angel in charge of power.
+
+\[David taunts Goliath, etc.\]
+
+David put a stone in the sling and struck the Philistine on his forehead.
+He ran toward him and unsheathed his sword. Goliath, while he still had life in him, said to him, “Hurry and kill me, and rejoice.”
+David said to him, “Before you die, open your eyes and see your slayer who has killed you.”
+The Philistine looked and saw the angel and said, “Not you alone killed me, but also he who was present with you, whose appearance is not like the appearance of a man.”
+Then David cut off his head.
+The angel of the Lord changed David's appearance, and no one recognized him.
+When Saul saw David, he asked him who he was, and there was no one who recognized him.
