@@ -13,7 +13,7 @@ presenter: true
 drawings:
   persist: false
 transition: slide-left
-title: Rebuilding the Fallen Tent - Session 6
+title: Rebuilding the Fallen Tent - Session 7
 mdc: true
 download: true
 export:
@@ -29,7 +29,7 @@ fonts:
 
 # Rebuilding the Fallen Tent
 
-## Session 6: Psalmist, Prophet, Ruler, Guy
+## Session 7: Whose Son is the Son of David?
 
 ---
 layout: quote 
